@@ -1,0 +1,2 @@
+Resume screening is still the most time consuming part of recruiting : Screening resumes is estimated to take up to 23 hours for just one hire When a job opening receives 250 resumes on average 70% of them are unqualified, therefore we need a tool that Screens the most appropriate resumes from that long list on the basis of job description. That Ultimately saves a lot of human efforts and essential hours.
+
